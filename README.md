@@ -84,6 +84,7 @@ Solving dsa
 | [0015-3sum](https://github.com/paulpiwow/Leetcode/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/paulpiwow/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/paulpiwow/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/paulpiwow/Leetcode/tree/master/0143-reorder-list) |
 ## Greedy
 |  |
 | ------- |
@@ -98,6 +99,7 @@ Solving dsa
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/paulpiwow/Leetcode/tree/master/0020-valid-parentheses) |
+| [0143-reorder-list](https://github.com/paulpiwow/Leetcode/tree/master/0143-reorder-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -109,11 +111,13 @@ Solving dsa
 | [0021-merge-two-sorted-lists](https://github.com/paulpiwow/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/paulpiwow/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/paulpiwow/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/paulpiwow/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/paulpiwow/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/paulpiwow/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/paulpiwow/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/paulpiwow/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Merge Sort
 |  |
