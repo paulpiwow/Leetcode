@@ -10,6 +10,7 @@ Solving dsa
 | [0011-container-with-most-water](https://github.com/paulpiwow/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/paulpiwow/Leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/paulpiwow/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/paulpiwow/Leetcode/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/paulpiwow/Leetcode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/paulpiwow/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/paulpiwow/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -196,4 +197,8 @@ Solving dsa
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/paulpiwow/Leetcode/tree/master/0295-find-median-from-data-stream) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/paulpiwow/Leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
