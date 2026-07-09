@@ -38,6 +38,7 @@ Solving dsa
 | [0049-group-anagrams](https://github.com/paulpiwow/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/paulpiwow/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/paulpiwow/Leetcode/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/paulpiwow/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/paulpiwow/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
@@ -60,6 +61,7 @@ Solving dsa
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/paulpiwow/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0295-find-median-from-data-stream](https://github.com/paulpiwow/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/paulpiwow/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -90,6 +92,7 @@ Solving dsa
 | [0125-valid-palindrome](https://github.com/paulpiwow/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/paulpiwow/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/paulpiwow/Leetcode/tree/master/0143-reorder-list) |
+| [0295-find-median-from-data-stream](https://github.com/paulpiwow/Leetcode/tree/master/0295-find-median-from-data-stream) |
 ## Greedy
 |  |
 | ------- |
@@ -187,5 +190,10 @@ Solving dsa
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/paulpiwow/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/paulpiwow/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/paulpiwow/Leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
