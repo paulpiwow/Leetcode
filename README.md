@@ -15,6 +15,7 @@ Solving dsa
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/paulpiwow/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/paulpiwow/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/paulpiwow/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0200-number-of-islands](https://github.com/paulpiwow/Leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/paulpiwow/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/paulpiwow/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/paulpiwow/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -86,6 +87,7 @@ Solving dsa
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/paulpiwow/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/paulpiwow/Leetcode/tree/master/0200-number-of-islands) |
 ## Two Pointers
 |  |
 | ------- |
@@ -152,6 +154,7 @@ Solving dsa
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/paulpiwow/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/paulpiwow/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/paulpiwow/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/paulpiwow/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/paulpiwow/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/paulpiwow/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -162,6 +165,7 @@ Solving dsa
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/paulpiwow/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/paulpiwow/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/paulpiwow/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/paulpiwow/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/paulpiwow/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Tree
@@ -208,4 +212,8 @@ Solving dsa
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/paulpiwow/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/paulpiwow/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
